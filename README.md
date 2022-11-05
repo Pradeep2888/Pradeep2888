@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Pradeep2888.github.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://Pradeep2888.github.io)
 <h1 align="center">Hi 👋, I'm Pradeep Tiwari</h1>
 <h3 align="center">An aspiring innovator and complete technical web developer specializing in MERN stack. Seeks a responsible and stimulating career, and looks forward to developing the skills and knowledge that will be fully used for the organization's ultimate goal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
