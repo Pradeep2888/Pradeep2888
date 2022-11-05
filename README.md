@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://Pradeep2888.github.io)
 <h1 align="center">Hi 👋, I'm Pradeep Tiwari</h1>
-<h3 align="center">An aspiring innovator and complete technical web developer specializing in MERN stack. Seeks a responsible and stimulating career, and looks forward to developing the skills and knowledge that will be fully used for the organization's ultimate goal.</h3>
+<h3 align="center">A passionate Full Stack Web Developer skilled in MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep2888&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep2888" /> </p>
