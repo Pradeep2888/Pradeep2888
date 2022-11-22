@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pradeeptiwari2888@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yFwECPaAsECcI7OJ5Ssq5lbd9k8o2jHo/view?usp=sharing](https://drive.google.com/file/d/1yFwECPaAsECcI7OJ5Ssq5lbd9k8o2jHo/view?usp=sharing)
+- 📄 Resume https://drive.google.com/file/d/1dbvrYmvypuOCScm5JGREf_Ttfikt4djV/view?usp=sharing
 
 - ⚡ Fun fact **I think I am funny**
 
