@@ -25,7 +25,7 @@
 # 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradeep2888&show_icons=true&locale=en&layout=compact" alt="pradeep2888" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradeep2888&show_icons=true&locale=en" alt="pradeep2888" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pradeep2888&show_icons=true&locale=en" alt="pradeep2888" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeep2888&" alt="pradeep2888" /></p>
 
